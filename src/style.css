@@ -1,1 +1,13 @@
-/* styles go here */
+.personalInfo,
+.registration,
+.interestingFacts,
+.favouriteColor,
+.bedTime,
+.carBrand,
+.additionalInfo {
+  margin-bottom: 10px;
+}
+
+.fieldset {
+  margin-bottom: 20px;
+}
